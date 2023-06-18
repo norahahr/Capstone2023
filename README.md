@@ -9,10 +9,11 @@ git clone https://github.com/norahahr/Capstone2023
 cd Capstone2023
 pip install -r requirements.txt
 ```
-
 ## External Resources
 ### EWISER
 To install EWISER, it is recommended to follow the intructions provided at: https://github.com/SapienzaNLP/ewiser
+The dependencies exclusively requied for running EWISER are not included in the requirements.txt file, but 
+should be installed as instructed in the aforementioned repositroy. 
 
 ### Corpora
 The **ElSevier OA CC-BY Corpus** can be accessed at: https://elsevier.digitalcommonsdata.com/datasets/zm33cdndxs/2
