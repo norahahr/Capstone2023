@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ## External Resources
 ### EWISER
 To install EWISER, it is recommended to follow the intructions provided at: https://github.com/SapienzaNLP/ewiser
-The dependencies exclusively requied for running EWISER are not included in the requirements.txt file, but 
+The dependencies exclusively requied for running EWISER are not included in the [requirements.txt](https://github.com/norahahr/Capstone2023/blob/main/requirements.txt) file, but 
 should be installed as instructed in the aforementioned repositroy. Without these dependencies, the preprocessing pipeline will not function correctly.
 
 ### Corpora
